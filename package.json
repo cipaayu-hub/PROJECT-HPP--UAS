@@ -1,0 +1,25 @@
+{
+  "name": "project-uas",
+  "version": "1.0.0",
+  "description": "Program Kalkulator Harga Pokok Produk berbasis TypeScript untuk menghitung biaya produksi, HPP per produk, dan harga jual berdasarkan keuntungan yang diinginkan, dilengkapi validasi input dan pembulatan harga jual ke kelipatan Rp500.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cipaayu-hub/PROJECT-HPP--UAS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cipaayu-hub/PROJECT-HPP--UAS/issues"
+  },
+  "homepage": "https://github.com/cipaayu-hub/PROJECT-HPP--UAS#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
